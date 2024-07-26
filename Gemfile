@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+# Specify your gem's dependencies in dato_cms_graphql.gemspec
+gemspec
+
 gem "httparty"
 gem "nokogiri"
 gem "rake"
