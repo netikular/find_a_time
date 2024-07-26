@@ -14,7 +14,7 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-Not much to use just yet.
+Check out the tests to see how the gem is being used.
 
 ## Development
 
